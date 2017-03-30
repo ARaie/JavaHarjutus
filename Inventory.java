@@ -2,7 +2,7 @@
 import java.util.LinkedList;
 import java.util.List;
 
-public class Inventory implements InventoryDAO {
+public class Inventory implements Inventoryi {
 
     private static String[] itemNames = {"Shrek", "Spider Man III", "Game of Thrones", "Mortal Combat"};
 

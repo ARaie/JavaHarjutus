@@ -1,7 +1,7 @@
 
 import java.util.List;
 
-public interface InventoryDAO {
+public interface Inventoryi {
     void addItem(Item item);
 
     void removeItem(Item item);
